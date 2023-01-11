@@ -38,7 +38,7 @@ int main()
     {
       for(int j=0;j<n3;j++)
         {
-          cout<<arr2[i][j]<<" ";
+          cout<<result[i][j]<<" ";
         }
       cout<<endl;
     }
